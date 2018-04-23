@@ -1,0 +1,31 @@
+Source,Target,Weight
+ingenieur,sens du collectif,2305
+mecanicien,ponctuel,2351
+cuisinier,autonome,2224
+boulanger,temeraire,2269
+politicien,autonome,2317
+luthier,rigoureux,2276
+ingenieur,curieux,2253
+mecanicien,motive,2279
+cuisinier,creatif,2264
+boulanger,motive,2345
+politicien,sens du collectif,2274
+luthier,ponctuel,2254
+ingenieur,creatif,2201
+mecanicien,rigoureux,2223
+politicien,creatif,2299
+luthier,habile,2268
+ingenieur,audacieux,2365
+cuisinier,sens du collectif,2318
+boulanger,habile,2220
+politicien,curieux,2260
+mecanicien,temeraire,2347
+cuisinier,curieux,2281
+luthier,temeraire,2306
+cuisinier,audacieux,2342
+mecanicien,habile,2229
+boulanger,ponctuel,2390
+politicien,audacieux,2279
+ingenieur,autonome,2305
+boulanger,rigoureux,2205
+luthier,motive,2325
